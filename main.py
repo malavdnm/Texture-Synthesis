@@ -3,8 +3,8 @@ import numpy as np
 import argparse
 import cv2
 from matplotlib import pyplot as plt
-from utils.preprocess import *
-from utils.generate import *
+from preprocess import *
+from generate import *
 from math import ceil
 
 ## Get parser arguments
