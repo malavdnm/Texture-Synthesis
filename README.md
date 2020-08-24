@@ -7,3 +7,9 @@ To run the code on a given texture, run the following code:
 `python main.py --image_path <image_path> --block_size <block_size> --overlap <overlap> --scale <scale> --num_outputs <num_outputs> --output_file <filename> --plot <plot> --tolerance <tolerance>`
 
 For more details, use `python main.py -h`
+
+## Results
+Here are some results of the image quilting for texture synthesis algorithm.
+
+
+![](https://raw.githubusercontent.com/malavdnm/texture-synthesis/master/textures/t16.png)  ![](https://raw.githubusercontent.com/malavdnm/texture-synthesis/master/master/results/t16.png)
