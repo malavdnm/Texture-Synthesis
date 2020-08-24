@@ -12,4 +12,4 @@ For more details, use `python main.py -h`
 Here are some results of the image quilting for texture synthesis algorithm.
 
 
-![](https://raw.githubusercontent.com/malavdnm/texture-synthesis/master/textures/t16.png)  ![](https://raw.githubusercontent.com/malavdnm/texture-synthesis/master/results/t16.png)
+![](https://raw.githubusercontent.com/malavdnm/texture-synthesis/master/textures/t6.png)  ![](https://raw.githubusercontent.com/malavdnm/texture-synthesis/master/results/t6.png)
